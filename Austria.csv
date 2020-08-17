@@ -1,0 +1,271 @@
+Order ID,Order Date,Customer ID,Segment,City,State,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,CUSTNAME,UnitCost,Source
+ES-2015-1043483,2015-01-14 00:00:00,SR-20425,Home Office,Vienna,Vienna,Central,TEC-PH-10003847,Technology,Phones,"Apple Headset, with Caller ID",439.56,6,Sharelle Roach,62.28,Sales Database
+,2015-01-14 00:00:00,SR-20425,Home Office,Vienna,Vienna,Central,TEC-MA-10002918,Technology,Machines,"StarTech Card Printer, White",485.73,3,Sharelle Roach,136.02,Sales Database
+ES-2015-1043483,2015-01-14 00:00:00,SR-20425,Home Office,Vienna,Vienna,Central,OFF-PA-10001650,Office Supplies,Paper,"Xerox Message Books, Premium",224.07,11,Sharelle Roach,11.01,Sales Database
+ES-2015-1119145,2015-12-18 00:00:00,JF-15490,Consumer,Vienna,Vienna,Central,OFF-BI-10003724,Office Supplies,Binders,"Cardinal Index Tab, Economy",17.52,2,Jeremy Farry,4.74,Sales Database
+ES-2015-1466305,2015-01-11 00:00:00,MB-18085,Consumer,Vienna,Vienna,Central,OFF-AR-10004519,Office Supplies,Art,"Boston Canvas, Fluorescent",54.9,1,Mick Brown,45.03,Sales Database
+,2015-01-11 00:00:00,MB-18085,Consumer,Vienna,Vienna,Central,OFF-ST-10003446,Office Supplies,Storage,"Smead Trays, Single Width",97.02,2,Mick Brown,33,Sales Database
+ES-2015-1536399,2015-06-16 00:00:00,TS-21160,Corporate,Vienna,Vienna,Central,OFF-FA-10003139,Office Supplies,Fasteners,"Advantus Push Pins, Assorted Sizes",35.64,3,Theresa Swint,9.51,Sales Database
+ES-2015-1611223,2015-11-25 00:00:00,TB-21625,Consumer,Vienna,Vienna,Central,TEC-CO-10002583,Technology,Copiers,"Canon Fax and Copier, Color",963.9,5,Trudy Brown,146.52,Sales Database
+,2015-11-25 00:00:00,TB-21625,Consumer,Vienna,Vienna,Central,TEC-MA-10002435,Technology,Machines,"Epson Receipt Printer, Wireless",351.09,3,Trudy Brown,88.95,Sales Database
+ES-2015-1689666,2015-06-28 00:00:00,FO-14305,Consumer,Vienna,Vienna,Central,OFF-SU-10003267,Office Supplies,Supplies,"Stiletto Scissors, Easy Grip",50.46,2,Frank Olsen,18.69,Sales Database
+ES-2015-1858721,2015-06-12 00:00:00,SC-20845,Consumer,Vienna,Vienna,Central,FUR-BO-10003103,Furniture,Bookcases,"Ikea Classic Bookcase, Metal",2056.05,5,Sung Chung,333.09,Sales Database
+ES-2015-1886093,2015-08-13 00:00:00,MH-17785,Corporate,Vienna,Vienna,Central,OFF-AR-10000316,Office Supplies,Art,"Stanley Pens, Blue",50.25,5,Maya Herman,5.13,Sales Database
+ES-2015-1974768,2015-06-19 00:00:00,JF-15355,Consumer,Vienna,Vienna,Central,FUR-BO-10003028,Furniture,Bookcases,"Sauder 3-Shelf Cabinet, Mobile",338.4,2,Jay Fein,99.84,Sales Database
+ES-2015-2272875,2015-12-28 00:00:00,DW-13480,Home Office,Vienna,Vienna,Central,OFF-BI-10003708,Office Supplies,Binders,"Avery Binder, Economy",51.6,4,Dianna Wilson,7.89,Sales Database
+,2015-12-28 00:00:00,DW-13480,Home Office,Vienna,Vienna,Central,OFF-AR-10001529,Office Supplies,Art,"Binney & Smith Pencil Sharpener, Easy-Erase",55.86,2,Dianna Wilson,24.87,Sales Database
+ES-2015-2272875,2015-12-28 00:00:00,DW-13480,Home Office,Vienna,Vienna,Central,TEC-CO-10002423,Technology,Copiers,"Canon Personal Copier, High-Speed",281.88,2,Dianna Wilson,102.9,Sales Database
+,2015-12-28 00:00:00,DW-13480,Home Office,Vienna,Vienna,Central,OFF-BI-10003320,Office Supplies,Binders,"Cardinal Hole Reinforcements, Recycled",51.3,9,Dianna Wilson,3.33,Sales Database
+ES-2015-2272875,2015-12-28 00:00:00,DW-13480,Home Office,Vienna,Vienna,Central,OFF-ST-10000020,Office Supplies,Storage,"Fellowes Folders, Single Width",79.29,3,Dianna Wilson,15.6,Sales Database
+,2015-12-28 00:00:00,DW-13480,Home Office,Vienna,Vienna,Central,OFF-SU-10001137,Office Supplies,Supplies,"Kleencut Scissors, High Speed",89.16,4,Dianna Wilson,15.39,Sales Database
+ES-2015-2272875,2015-12-28 00:00:00,DW-13480,Home Office,Vienna,Vienna,Central,OFF-BI-10004328,Office Supplies,Binders,"Wilson Jones Binding Machine, Economy",97.92,2,Dianna Wilson,31.35,Sales Database
+ES-2015-2347754,2015-09-29 00:00:00,ND-18460,Corporate,Graz,Styria,Central,FUR-CH-10001037,Furniture,Chairs,"SAFCO Chairmat, Adjustable",186.93,3,Neil Ducich,48.63,Sales Database
+ES-2015-2613634,2015-09-10 00:00:00,MY-18295,Corporate,Innsbruck,Tyrol,Central,TEC-CO-10000013,Technology,Copiers,"Brother Fax Machine, Laser",1592.7,5,Muhammed Yedwab,187.95,Sales Database
+,2015-09-10 00:00:00,MY-18295,Corporate,Innsbruck,Tyrol,Central,FUR-BO-10003828,Furniture,Bookcases,"Bush 3-Shelf Cabinet, Metal",285.66,2,Muhammed Yedwab,101.43,Sales Database
+ES-2015-2613634,2015-09-10 00:00:00,MY-18295,Corporate,Innsbruck,Tyrol,Central,OFF-PA-10003027,Office Supplies,Paper,"Enermax Message Books, Premium",45,2,Muhammed Yedwab,21.6,Sales Database
+,2015-09-10 00:00:00,MY-18295,Corporate,Innsbruck,Tyrol,Central,FUR-CH-10001674,Furniture,Chairs,"Office Star Chairmat, Adjustable",204.93,3,Muhammed Yedwab,41.67,Sales Database
+ES-2015-2613634,2015-09-10 00:00:00,MY-18295,Corporate,Innsbruck,Tyrol,Central,FUR-FU-10003986,Furniture,Furnishings,"Rubbermaid Door Stop, Black",87.6,2,Muhammed Yedwab,30.24,Sales Database
+,2015-09-10 00:00:00,MY-18295,Corporate,Innsbruck,Tyrol,Central,OFF-AR-10001533,Office Supplies,Art,"Sanford Sketch Pad, Easy-Erase",137.25,3,Muhammed Yedwab,24.72,Sales Database
+ES-2015-2886437,2015-09-03 00:00:00,TS-21655,Consumer,Vienna,Vienna,Central,OFF-AR-10003651,Office Supplies,Art,"Sanford Pens, Easy-Erase",68.22,6,Trudy Schmidt,8.76,Sales Database
+,2015-09-03 00:00:00,TS-21655,Consumer,Vienna,Vienna,Central,OFF-SU-10001992,Office Supplies,Supplies,"Stiletto Ruler, Serrated",23.16,2,Trudy Schmidt,7.77,Sales Database
+ES-2015-2886437,2015-09-03 00:00:00,TS-21655,Consumer,Vienna,Vienna,Central,OFF-BI-10003705,Office Supplies,Binders,"Wilson Jones Binding Machine, Recycled",147.96,3,Trudy Schmidt,43.92,Sales Database
+ES-2015-2907593,2015-11-23 00:00:00,TB-21595,Consumer,Vienna,Vienna,Central,OFF-ST-10000085,Office Supplies,Storage,"Rogers File Cart, Single Width",426.24,3,Troy Blackwell,104.82,Sales Database
+ES-2015-2950882,2015-12-18 00:00:00,MK-17905,Corporate,Vienna,Vienna,Central,TEC-AC-10002322,Technology,Accessories,"Memorex Memory Card, Bluetooth",715.89,7,Michael Kennedy,80.82,Sales Database
+,2015-12-18 00:00:00,MK-17905,Corporate,Vienna,Vienna,Central,OFF-FA-10001783,Office Supplies,Fasteners,"Stockwell Rubber Bands, Metal",116.55,7,Michael Kennedy,8.13,Sales Database
+ES-2015-2950882,2015-12-18 00:00:00,MK-17905,Corporate,Vienna,Vienna,Central,OFF-BI-10000171,Office Supplies,Binders,"Wilson Jones Index Tab, Recycled",40.86,6,Michael Kennedy,4.92,Sales Database
+ES-2015-3630624,2015-06-07 00:00:00,ML-18265,Consumer,Vienna,Vienna,Central,OFF-AR-10003247,Office Supplies,Art,"Boston Highlighters, Water Color",44.1,2,Muhammed Lee,18.09,Sales Database
+,2015-06-07 00:00:00,ML-18265,Consumer,Vienna,Vienna,Central,OFF-AP-10003717,Office Supplies,Appliances,"Breville Coffee Grinder, White",60,1,Muhammed Lee,58.2,Sales Database
+ES-2015-3654318,2015-06-23 00:00:00,AR-10405,Corporate,Vienna,Vienna,Central,OFF-BI-10001808,Office Supplies,Binders,"Cardinal Binding Machine, Clear",196.92,4,Allen Rosenblatt,29.55,Sales Database
+,2015-06-23 00:00:00,AR-10405,Corporate,Vienna,Vienna,Central,OFF-FA-10000520,Office Supplies,Fasteners,"Stockwell Paper Clips, Bulk Pack",13.62,1,Allen Rosenblatt,7.11,Sales Database
+ES-2015-4256146,2015-08-06 00:00:00,TG-21310,Consumer,Innsbruck,Tyrol,Central,OFF-AR-10000833,Office Supplies,Art,"Binney & Smith Pencil Sharpener, Water Color",59.7,2,Toby Gnade,14.55,Sales Database
+,2015-08-06 00:00:00,TG-21310,Consumer,Innsbruck,Tyrol,Central,OFF-PA-10000871,Office Supplies,Paper,"Enermax Cards & Envelopes, Recycled",235.05,5,Toby Gnade,45.6,Sales Database
+ES-2015-4256146,2015-08-06 00:00:00,TG-21310,Consumer,Innsbruck,Tyrol,Central,FUR-CH-10004606,Furniture,Chairs,"Hon Rocking Chair, Red",391.86,3,Toby Gnade,120.18,Sales Database
+ES-2015-4302063,2015-11-17 00:00:00,LB-16735,Consumer,Vienna,Vienna,Central,OFF-ST-10004473,Office Supplies,Storage,"Tenex Trays, Wire Frame",319.68,6,Larry Blacks,26.64,Sales Database
+ES-2015-4405425,2015-08-08 00:00:00,AR-10405,Corporate,Vienna,Vienna,Central,FUR-FU-10001760,Furniture,Furnishings,"Tenex Light Bulb, Black",37.86,2,Allen Rosenblatt,13.26,Sales Database
+ES-2015-4559599,2015-10-21 00:00:00,KD-16615,Corporate,Vienna,Vienna,Central,FUR-FU-10000432,Furniture,Furnishings,"Eldon Clock, Black",56.52,1,Ken Dana,40.71,Sales Database
+ES-2015-4932761,2015-05-19 00:00:00,SO-20335,Consumer,Vienna,Vienna,Central,FUR-FU-10004608,Furniture,Furnishings,"Advantus Door Stop, Erganomic",87.3,2,"Sean O'Donnell",30.12,Sales Database
+,2015-05-19 00:00:00,SO-20335,Consumer,Vienna,Vienna,Central,OFF-ST-10000095,Office Supplies,Storage,"Fellowes File Cart, Industrial",964.53,7,"Sean O'Donnell",119.88,Sales Database
+ES-2015-4932761,2015-05-19 00:00:00,SO-20335,Consumer,Vienna,Vienna,Central,FUR-CH-10003362,Furniture,Chairs,"Office Star Swivel Stool, Adjustable",1058.58,6,"Sean O'Donnell",158.79,Sales Database
+ES-2015-5464858,2015-10-11 00:00:00,KB-16240,Corporate,Linz,Upper Austria,Central,OFF-LA-10001618,Office Supplies,Labels,"Hon Legal Exhibit Labels, Adjustable",70.08,8,Karen Bern,7.38,Sales Database
+ES-2015-5605335,2015-07-17 00:00:00,PS-18760,Consumer,Vienna,Vienna,Central,TEC-CO-10001567,Technology,Copiers,"Brother Copy Machine, Laser",523.86,2,Pamela Stobb,259.32,Sales Database
+,2015-07-17 00:00:00,PS-18760,Consumer,Vienna,Vienna,Central,OFF-BI-10000042,Office Supplies,Binders,"Cardinal Index Tab, Clear",29.04,4,Pamela Stobb,3.9,Sales Database
+ES-2015-5693995,2015-07-10 00:00:00,MM-18055,Consumer,Linz,Upper Austria,Central,FUR-FU-10000620,Furniture,Furnishings,"Advantus Clock, Black",102.78,2,Michelle Moray,36.51,Sales Database
+,2015-07-10 00:00:00,MM-18055,Consumer,Linz,Upper Austria,Central,OFF-AP-10001635,Office Supplies,Appliances,"KitchenAid Refrigerator, Silver",1057.38,2,Michelle Moray,322.53,Sales Database
+ES-2015-5793145,2015-05-06 00:00:00,SC-20695,Corporate,Vienna,Vienna,Central,TEC-CO-10002601,Technology,Copiers,"Brother Fax and Copier, Digital",382.26,2,Steve Chapman,164.4,Sales Database
+,2015-05-06 00:00:00,SC-20695,Corporate,Vienna,Vienna,Central,TEC-CO-10000660,Technology,Copiers,"Hewlett Copy Machine, Color",1047.48,4,Steve Chapman,130.95,Sales Database
+ES-2015-5911716,2015-12-20 00:00:00,JK-15640,Home Office,Vienna,Vienna,Central,FUR-CH-10003365,Furniture,Chairs,"Office Star Executive Leather Armchair, Adjustable",1395,3,Jim Kriz,274.35,Sales Database
+,2015-12-20 00:00:00,JK-15640,Home Office,Vienna,Vienna,Central,OFF-ST-10002271,Office Supplies,Storage,"Rogers Shelving, Wire Frame",183.6,3,Jim Kriz,42.24,Sales Database
+ES-2015-5911716,2015-12-20 00:00:00,JK-15640,Home Office,Vienna,Vienna,Central,FUR-BO-10004834,Furniture,Bookcases,"Safco 3-Shelf Cabinet, Mobile",1542.24,9,Jim Kriz,149.1,Sales Database
+,2015-12-20 00:00:00,JK-15640,Home Office,Vienna,Vienna,Central,OFF-SU-10000087,Office Supplies,Supplies,"Stiletto Ruler, High Speed",178.56,12,Jim Kriz,12.96,Sales Database
+ES-2016-1071143,2016-01-29 00:00:00,AS-10285,Corporate,Linz,Upper Austria,Central,OFF-AR-10001898,Office Supplies,Art,"Binney & Smith Pencil Sharpener, Fluorescent",26.67,1,Alejandro Savely,25.62,Sales Database
+ES-2016-1667885,2016-08-31 00:00:00,CY-12745,Corporate,Vienna,Vienna,Central,OFF-ST-10003018,Office Supplies,Storage,"Smead File Cart, Industrial",256.8,2,Craig Yedwab,92.46,Sales Database
+ES-2016-1674960,2016-02-08 00:00:00,TC-20980,Corporate,Graz,Styria,Central,FUR-FU-10002019,Furniture,Furnishings,"Eldon Photo Frame, Black",232.44,4,Tamara Chand,47.67,Sales Database
+,2016-02-08 00:00:00,TC-20980,Corporate,Graz,Styria,Central,FUR-FU-10002919,Furniture,Furnishings,"Rubbermaid Frame, Erganomic",434.04,4,Tamara Chand,68.37,Sales Database
+ES-2016-1743140,2016-06-22 00:00:00,VP-21760,Corporate,Vienna,Vienna,Central,OFF-SU-10003357,Office Supplies,Supplies,"Fiskars Shears, Steel",94.08,2,Victoria Pisteka,33.42,Sales Database
+ES-2016-2000885,2016-10-18 00:00:00,MS-17530,Consumer,Innsbruck,Tyrol,Central,FUR-BO-10001039,Furniture,Bookcases,"Dania Classic Bookcase, Traditional",821.52,2,MaryBeth Skach,234.15,Sales Database
+ES-2016-2080192,2016-04-12 00:00:00,CM-12445,Consumer,Vienna,Vienna,Central,OFF-AR-10001269,Office Supplies,Art,"BIC Markers, Water Color",88.83,3,Chuck Magee,19.26,Sales Database
+,2016-04-12 00:00:00,CM-12445,Consumer,Vienna,Vienna,Central,OFF-LA-10003290,Office Supplies,Labels,"Hon Round Labels, Adjustable",22.8,5,Chuck Magee,2.94,Sales Database
+ES-2016-2080192,2016-04-12 00:00:00,CM-12445,Consumer,Vienna,Vienna,Central,FUR-BO-10003697,Furniture,Bookcases,"Safco Floating Shelf Set, Mobile",398.52,2,Chuck Magee,175.35,Sales Database
+,2016-04-12 00:00:00,CM-12445,Consumer,Vienna,Vienna,Central,OFF-ST-10000952,Office Supplies,Storage,"Smead File Cart, Blue",1147.23,9,Chuck Magee,126.21,Sales Database
+ES-2016-2195955,2016-03-08 00:00:00,SW-20245,Consumer,Vienna,Vienna,Central,TEC-CO-10004662,Technology,Copiers,"Hewlett Fax Machine, Color",1285.44,4,Scot Wooten,208.89,Sales Database
+ES-2016-2374376,2016-01-25 00:00:00,NF-18385,Consumer,Innsbruck,Tyrol,Central,OFF-AR-10003377,Office Supplies,Art,"Boston Pencil Sharpener, Easy-Erase",90.63,3,Natalie Fritzler,25.38,Sales Database
+ES-2016-2456263,2016-04-29 00:00:00,TS-21085,Consumer,Vienna,Vienna,Central,OFF-AR-10002672,Office Supplies,Art,"Boston Highlighters, Blue",18.87,1,Thais Sissman,14.16,Sales Database
+,2016-04-29 00:00:00,TS-21085,Consumer,Vienna,Vienna,Central,OFF-AR-10000751,Office Supplies,Art,"Boston Highlighters, Fluorescent",40.26,2,Thais Sissman,14.91,Sales Database
+ES-2016-2456263,2016-04-29 00:00:00,TS-21085,Consumer,Vienna,Vienna,Central,OFF-LA-10000296,Office Supplies,Labels,"Hon Color Coded Labels, Adjustable",21.42,2,Thais Sissman,9,Sales Database
+,2016-04-29 00:00:00,TS-21085,Consumer,Vienna,Vienna,Central,TEC-MA-10003698,Technology,Machines,"Okidata Phone, White",426.3,5,Thais Sissman,84.42,Sales Database
+ES-2016-2456263,2016-04-29 00:00:00,TS-21085,Consumer,Vienna,Vienna,Central,OFF-PA-10002755,Office Supplies,Paper,"Xerox Computer Printout Paper, Multicolor",83.25,3,Thais Sissman,21.66,Sales Database
+ES-2016-2522806,2016-01-13 00:00:00,KL-16555,Corporate,Vienna,Vienna,Central,OFF-BI-10002990,Office Supplies,Binders,"Acco Index Tab, Clear",17.16,2,Kelly Lampkin,4.68,Sales Database
+,2016-01-13 00:00:00,KL-16555,Corporate,Vienna,Vienna,Central,TEC-PH-10003620,Technology,Phones,"Apple Signal Booster, Cordless",558,4,Kelly Lampkin,104.64,Sales Database
+ES-2016-2522806,2016-01-13 00:00:00,KL-16555,Corporate,Vienna,Vienna,Central,OFF-ST-10004046,Office Supplies,Storage,"Fellowes Box, Single Width",78.84,4,Kelly Lampkin,18.54,Sales Database
+,2016-01-13 00:00:00,KL-16555,Corporate,Vienna,Vienna,Central,OFF-PA-10002248,Office Supplies,Paper,"Green Bar Memo Slips, 8.5 x 11",63.27,3,Kelly Lampkin,10.77,Sales Database
+ES-2016-2522806,2016-01-13 00:00:00,KL-16555,Corporate,Vienna,Vienna,Central,OFF-LA-10004799,Office Supplies,Labels,"Hon Legal Exhibit Labels, Alphabetical",53.4,5,Kelly Lampkin,10.26,Sales Database
+,2016-01-13 00:00:00,KL-16555,Corporate,Vienna,Vienna,Central,TEC-CO-10004005,Technology,Copiers,"Sharp Copy Machine, Laser",1195.2,5,Kelly Lampkin,207.99,Sales Database
+ES-2016-2756176,2016-01-26 00:00:00,RA-19885,Corporate,Vienna,Vienna,Central,OFF-EN-10004759,Office Supplies,Envelopes,"Cameo Interoffice Envelope, Recycled",231.15,5,Ruben Ausman,26.82,Sales Database
+,2016-01-26 00:00:00,RA-19885,Corporate,Vienna,Vienna,Central,TEC-CO-10002055,Technology,Copiers,"Hewlett Ink, Digital",296.64,2,Ruben Ausman,81.6,Sales Database
+ES-2016-2756176,2016-01-26 00:00:00,RA-19885,Corporate,Vienna,Vienna,Central,OFF-BI-10000341,Office Supplies,Binders,"Ibico Binding Machine, Recycled",362.46,7,Ruben Ausman,42.48,Sales Database
+,2016-01-26 00:00:00,RA-19885,Corporate,Vienna,Vienna,Central,FUR-CH-10000727,Furniture,Chairs,"Office Star Chairmat, Set of Two",68.07,1,Ruben Ausman,38.13,Sales Database
+ES-2016-3075381,2016-09-30 00:00:00,DW-13585,Corporate,Vienna,Vienna,Central,OFF-AR-10003377,Office Supplies,Art,"Boston Pencil Sharpener, Easy-Erase",181.26,6,Dorothy Wardle,25.38,Sales Database
+,2016-09-30 00:00:00,DW-13585,Corporate,Vienna,Vienna,Central,OFF-SU-10003697,Office Supplies,Supplies,"Elite Scissors, High Speed",90.12,4,Dorothy Wardle,11.73,Sales Database
+ES-2016-3362320,2016-08-30 00:00:00,DL-12865,Consumer,Vienna,Vienna,Central,TEC-PH-10000270,Technology,Phones,"Apple Office Telephone, VoIP",719.07,11,Dan Lawera,40.53,Sales Database
+ES-2016-3385452,2016-08-13 00:00:00,CC-12370,Consumer,Graz,Styria,Central,OFF-SU-10004691,Office Supplies,Supplies,"Fiskars Scissors, Serrated",59.58,3,Christopher Conant,10.95,Sales Database
+ES-2016-3520629,2016-09-29 00:00:00,RH-19600,Consumer,Vienna,Vienna,Central,OFF-PA-10001686,Office Supplies,Paper,"SanDisk Memo Slips, Premium",67.92,4,Rob Haberlin,10.53,Sales Database
+,2016-09-29 00:00:00,RH-19600,Consumer,Vienna,Vienna,Central,OFF-ST-10000710,Office Supplies,Storage,"Smead Shelving, Blue",97.86,2,Rob Haberlin,34.26,Sales Database
+ES-2016-3750420,2016-12-04 00:00:00,MG-17680,Home Office,Vienna,Vienna,Central,TEC-AC-10001100,Technology,Accessories,"Logitech Router, Bluetooth",1236.6,5,Maureen Gastineau,227.55,Sales Database
+ES-2016-4159779,2016-03-28 00:00:00,CR-12820,Home Office,Vienna,Vienna,Central,OFF-ST-10000624,Office Supplies,Storage,"Eldon File Cart, Single Width",128.37,1,Cyra Reiten,104.91,Sales Database
+ES-2016-4287995,2016-06-20 00:00:00,KH-16360,Consumer,Vienna,Vienna,Central,TEC-PH-10002419,Technology,Phones,"Motorola Headset, Cordless",247.77,3,Katherine Hughes,56.19,Sales Database
+,2016-06-20 00:00:00,KH-16360,Consumer,Vienna,Vienna,Central,OFF-LA-10002733,Office Supplies,Labels,"Novimex File Folder Labels, Alphabetical",24.21,3,Katherine Hughes,6.96,Sales Database
+ES-2016-4487516,2016-08-09 00:00:00,MT-17815,Consumer,Vienna,Vienna,Central,OFF-BI-10000734,Office Supplies,Binders,"Avery Binding Machine, Recycled",196.8,4,Meg Tillman,28.05,Sales Database
+,2016-08-09 00:00:00,MT-17815,Consumer,Vienna,Vienna,Central,OFF-EN-10001202,Office Supplies,Envelopes,"Kraft Clasp Envelope, with clear poly window",50.16,4,Meg Tillman,6.54,Sales Database
+ES-2016-4487516,2016-08-09 00:00:00,MT-17815,Consumer,Vienna,Vienna,Central,OFF-AR-10000799,Office Supplies,Art,"Sanford Highlighters, Easy-Erase",48.06,3,Meg Tillman,15.39,Sales Database
+ES-2016-4784843,2016-04-04 00:00:00,RH-19600,Consumer,Vienna,Vienna,Central,OFF-BI-10002193,Office Supplies,Binders,"Wilson Jones Hole Reinforcements, Recycled",9.78,2,Rob Haberlin,3.72,Sales Database
+ES-2016-4806252,2016-01-28 00:00:00,JE-15715,Consumer,Vienna,Vienna,Central,OFF-BI-10003124,Office Supplies,Binders,"Cardinal Hole Reinforcements, Durable",13.68,2,Joe Elijah,5.43,Sales Database
+ES-2016-5232287,2016-06-12 00:00:00,BB-11545,Corporate,Vienna,Vienna,Central,OFF-AR-10000491,Office Supplies,Art,"Binney & Smith Pens, Water Color",30.24,2,Brenda Bowman,9.69,Sales Database
+,2016-06-12 00:00:00,BB-11545,Corporate,Vienna,Vienna,Central,OFF-ST-10001554,Office Supplies,Storage,"Tenex File Cart, Industrial",402.39,3,Brenda Bowman,108.66,Sales Database
+ES-2016-5336654,2016-04-28 00:00:00,RM-19675,Home Office,Vienna,Vienna,Central,OFF-BI-10000329,Office Supplies,Binders,"Acco Binder, Durable",49.95,3,Robert Marley,12,Sales Database
+,2016-04-28 00:00:00,RM-19675,Home Office,Vienna,Vienna,Central,OFF-LA-10001169,Office Supplies,Labels,"Harbour Creations Round Labels, Laser Printer Compatible",27,4,Robert Marley,5.76,Sales Database
+ES-2016-5336654,2016-04-28 00:00:00,RM-19675,Home Office,Vienna,Vienna,Central,TEC-MA-10002864,Technology,Machines,"Okidata Calculator, White",253.5,5,Robert Marley,49.71,Sales Database
+,2016-04-28 00:00:00,RM-19675,Home Office,Vienna,Vienna,Central,OFF-ST-10003335,Office Supplies,Storage,"Smead Box, Blue",43.08,4,Robert Marley,10.77,Sales Database
+ES-2016-5336654,2016-04-28 00:00:00,RM-19675,Home Office,Vienna,Vienna,Central,OFF-FA-10002226,Office Supplies,Fasteners,"Stockwell Thumb Tacks, Metal",26.52,2,Robert Marley,8.76,Sales Database
+ES-2016-5382495,2016-11-08 00:00:00,LW-16825,Corporate,Vienna,Vienna,Central,OFF-EN-10003080,Office Supplies,Envelopes,"Kraft Peel and Seal, Security-Tint",68.67,3,Laurel Workman,19.23,Sales Database
+ES-2016-5402571,2016-11-08 00:00:00,JK-15370,Consumer,Graz,Styria,Central,OFF-BI-10000368,Office Supplies,Binders,"Avery Binder Covers, Durable",125.7,10,Jay Kimmel,10.95,Sales Database
+ES-2016-5600285,2016-09-05 00:00:00,BD-11620,Consumer,Vienna,Vienna,Central,FUR-FU-10004422,Furniture,Furnishings,"Advantus Photo Frame, Erganomic",206.4,4,Brian DeCherney,26.85,Sales Database
+,2016-09-05 00:00:00,BD-11620,Consumer,Vienna,Vienna,Central,OFF-EN-10001993,Office Supplies,Envelopes,"GlobeWeis Manila Envelope, Set of 50",27.39,1,Brian DeCherney,18.36,Sales Database
+ES-2016-5600285,2016-09-05 00:00:00,BD-11620,Consumer,Vienna,Vienna,Central,OFF-LA-10003290,Office Supplies,Labels,"Hon Round Labels, Adjustable",9.12,2,Brian DeCherney,2.94,Sales Database
+ES-2016-5659427,2016-01-19 00:00:00,JJ-15760,Home Office,Vienna,Vienna,Central,OFF-ST-10000624,Office Supplies,Storage,"Eldon File Cart, Single Width",256.74,2,Joel Jenkins,104.91,Sales Database
+,2016-01-19 00:00:00,JJ-15760,Home Office,Vienna,Vienna,Central,OFF-ST-10000127,Office Supplies,Storage,"Fellowes Shelving, Wire Frame",284.55,5,Joel Jenkins,33.6,Sales Database
+ES-2016-5659427,2016-01-19 00:00:00,JJ-15760,Home Office,Vienna,Vienna,Central,OFF-ST-10000085,Office Supplies,Storage,"Rogers File Cart, Single Width",852.48,6,Joel Jenkins,104.82,Sales Database
+ES-2016-5824366,2016-04-24 00:00:00,LD-16855,Corporate,Vienna,Vienna,Central,TEC-AC-10000827,Technology,Accessories,"SanDisk Keyboard, Programmable",414.9,5,Lela Donovan,69.72,Sales Database
+ES-2016-5916678,2016-04-27 00:00:00,BE-11455,Home Office,Vienna,Vienna,Central,OFF-FA-10004344,Office Supplies,Fasteners,"Advantus Thumb Tacks, Assorted Sizes",11.04,1,Brad Eason,9.39,Sales Database
+ES-2017-1032140,2017-03-11 00:00:00,KM-16720,Consumer,Vienna,Vienna,Central,OFF-BI-10001138,Office Supplies,Binders,"Acco 3-Hole Punch, Clear",295.8,10,Kunst Miller,24.57,Sales Database
+,2017-03-11 00:00:00,KM-16720,Consumer,Vienna,Vienna,Central,TEC-PH-10000037,Technology,Phones,"Cisco Signal Booster, Cordless",464.04,3,Kunst Miller,145.41,Sales Database
+ES-2017-1032140,2017-03-11 00:00:00,KM-16720,Consumer,Vienna,Vienna,Central,OFF-AR-10004881,Office Supplies,Art,"Stanley Sketch Pad, Blue",133.29,3,Kunst Miller,29.79,Sales Database
+ES-2017-1068972,2017-12-09 00:00:00,GM-14440,Consumer,Vienna,Vienna,Central,OFF-AR-10002116,Office Supplies,Art,"BIC Pens, Fluorescent",31.08,2,Gary McGarr,10.44,Sales Database
+,2017-12-09 00:00:00,GM-14440,Consumer,Vienna,Vienna,Central,OFF-AR-10003384,Office Supplies,Art,"Boston Pens, Water Color",17.4,1,Gary McGarr,15.84,Sales Database
+ES-2017-1068972,2017-12-09 00:00:00,GM-14440,Consumer,Vienna,Vienna,Central,FUR-CH-10001278,Furniture,Chairs,"SAFCO Chairmat, Black",114.78,2,Gary McGarr,54.54,Sales Database
+ES-2017-1093488,2017-10-05 00:00:00,LS-16945,Corporate,Vienna,Vienna,Central,TEC-AC-10001089,Technology,Accessories,"Enermax Keyboard, Erganomic",487.62,6,Linda Southworth,40.65,Sales Database
+ES-2017-1247648,2017-01-19 00:00:00,AT-10435,Home Office,Salzburg,Salzburg,Central,TEC-PH-10000309,Technology,Phones,"Motorola Audio Dock, with Caller ID",520.11,3,Alyssa Tate,105.78,Sales Database
+ES-2017-1265335,2017-08-22 00:00:00,AG-10270,Consumer,Vienna,Vienna,Central,OFF-BI-10003708,Office Supplies,Binders,"Cardinal Binder, Recycled",42.57,3,Alejandro Grove,11.22,Sales Database
+,2017-08-22 00:00:00,AG-10270,Consumer,Vienna,Vienna,Central,OFF-BI-10003917,Office Supplies,Binders,"Wilson Jones 3-Hole Punch, Recycled",85.05,3,Alejandro Grove,19.86,Sales Database
+ES-2017-1442338,2017-02-12 00:00:00,DK-12985,Consumer,Villach,Carinthia,Central,OFF-AR-10000502,Office Supplies,Art,"BIC Highlighters, Easy-Erase",19.2,1,Darren Koutras,14.79,Sales Database
+ES-2017-1608190,2017-06-28 00:00:00,PS-19045,Home Office,Klagenfurt,Carinthia,Central,FUR-FU-10004689,Furniture,Furnishings,"Advantus Light Bulb, Duo Pack",40.26,2,Penelope Sewall,16.11,Sales Database
+,2017-06-28 00:00:00,PS-19045,Home Office,Klagenfurt,Carinthia,Central,OFF-BI-10004007,Office Supplies,Binders,"Avery 3-Hole Punch, Durable",58.74,2,Penelope Sewall,19.11,Sales Database
+ES-2017-1608190,2017-06-28 00:00:00,PS-19045,Home Office,Klagenfurt,Carinthia,Central,OFF-AR-10004519,Office Supplies,Art,"Boston Canvas, Fluorescent",164.7,3,Penelope Sewall,45.03,Sales Database
+,2017-06-28 00:00:00,PS-19045,Home Office,Klagenfurt,Carinthia,Central,OFF-AP-10003259,Office Supplies,Appliances,"Cuisinart Refrigerator, Silver",1987.32,4,Penelope Sewall,412.38,Sales Database
+ES-2017-1608190,2017-06-28 00:00:00,PS-19045,Home Office,Klagenfurt,Carinthia,Central,FUR-BO-10004191,Furniture,Bookcases,"Safco Corner Shelving, Traditional",448.38,3,Penelope Sewall,122.58,Sales Database
+,2017-06-28 00:00:00,PS-19045,Home Office,Klagenfurt,Carinthia,Central,OFF-PA-10002292,Office Supplies,Paper,"SanDisk Computer Printout Paper, Recycled",148.5,5,Penelope Sewall,16.35,Sales Database
+ES-2017-1608190,2017-06-28 00:00:00,PS-19045,Home Office,Klagenfurt,Carinthia,Central,OFF-ST-10001195,Office Supplies,Storage,"Smead Box, Wire Frame",49.2,5,Penelope Sewall,8.19,Sales Database
+ES-2017-1795340,2017-01-29 00:00:00,IG-15085,Consumer,Vienna,Vienna,Central,OFF-AR-10002852,Office Supplies,Art,"Stanley Pens, Fluorescent",45.24,4,Ivan Gibson,10.32,Sales Database
+ES-2017-1812049,2017-03-03 00:00:00,JG-15805,Corporate,Vienna,Vienna,Central,OFF-BI-10000894,Office Supplies,Binders,"Avery Binder Covers, Clear",21.06,2,John Grady,8.13,Sales Database
+,2017-03-03 00:00:00,JG-15805,Corporate,Vienna,Vienna,Central,TEC-AC-10001486,Technology,Accessories,"Belkin Flash Drive, Programmable",130.32,3,John Grady,39.12,Sales Database
+ES-2017-1986520,2017-01-17 00:00:00,SC-20020,Consumer,Vienna,Vienna,Central,OFF-AR-10003651,Office Supplies,Art,"Sanford Pencil Sharpener, Easy-Erase",135.45,5,Sam Craven,13.56,Sales Database
+ES-2017-2037410,2017-12-11 00:00:00,PW-19030,Corporate,Salzburg,Salzburg,Central,TEC-AC-10000170,Technology,Accessories,"Memorex Keyboard, Programmable",437.04,6,Pauline Webber,42.27,Sales Database
+ES-2017-2062612,2017-11-30 00:00:00,CC-12685,Consumer,Linz,Upper Austria,Central,OFF-BI-10000538,Office Supplies,Binders,"Acco Binding Machine, Clear",303.3,6,Craig Carroll,45,Sales Database
+,2017-11-30 00:00:00,CC-12685,Consumer,Linz,Upper Austria,Central,OFF-SU-10002900,Office Supplies,Supplies,"Kleencut Trimmer, Easy Grip",215.25,5,Craig Carroll,32.73,Sales Database
+ES-2017-2062612,2017-11-30 00:00:00,CC-12685,Consumer,Linz,Upper Austria,Central,OFF-ST-10002566,Office Supplies,Storage,"Tenex Lockers, Wire Frame",1828.98,9,Craig Carroll,140.25,Sales Database
+ES-2017-2195633,2017-03-30 00:00:00,GH-14410,Home Office,Vienna,Vienna,Central,OFF-LA-10000039,Office Supplies,Labels,"Smead Legal Exhibit Labels, Adjustable",54,6,Gary Hansen,7.74,Sales Database
+ES-2017-2361375,2017-11-14 00:00:00,EB-13750,Corporate,Linz,Upper Austria,Central,OFF-PA-10001523,Office Supplies,Paper,"Enermax Cards & Envelopes, Premium",141.3,3,Edward Becker,33.45,Sales Database
+ES-2017-2475819,2017-11-06 00:00:00,BD-11560,Home Office,Vienna,Vienna,Central,OFF-ST-10004317,Office Supplies,Storage,"Smead Folders, Blue",122.43,7,Brendan Dodson,15.42,Sales Database
+,2017-11-06 00:00:00,BD-11560,Home Office,Vienna,Vienna,Central,OFF-BI-10001843,Office Supplies,Binders,"Wilson Jones Index Tab, Durable",15.9,2,Brendan Dodson,7.8,Sales Database
+ES-2017-2491395,2017-06-17 00:00:00,BM-11785,Consumer,Vienna,Vienna,Central,OFF-AR-10004986,Office Supplies,Art,"Boston Pens, Easy-Erase",28.98,2,Bryan Mills,9.72,Sales Database
+,2017-06-17 00:00:00,BM-11785,Consumer,Vienna,Vienna,Central,FUR-FU-10000368,Furniture,Furnishings,"Deflect-O Frame, Durable",428.28,4,Bryan Mills,63.18,Sales Database
+ES-2017-2491395,2017-06-17 00:00:00,BM-11785,Consumer,Vienna,Vienna,Central,OFF-ST-10002437,Office Supplies,Storage,"Eldon Trays, Blue",239.85,5,Bryan Mills,39.36,Sales Database
+,2017-06-17 00:00:00,BM-11785,Consumer,Vienna,Vienna,Central,OFF-BI-10000282,Office Supplies,Binders,"Ibico Binder, Durable",33.96,2,Bryan Mills,16.5,Sales Database
+ES-2017-2491395,2017-06-17 00:00:00,BM-11785,Consumer,Vienna,Vienna,Central,TEC-MA-10000110,Technology,Machines,"StarTech Phone, Wireless",298.08,4,Bryan Mills,68.58,Sales Database
+ES-2017-2559061,2017-10-23 00:00:00,CR-12820,Home Office,Vienna,Vienna,Central,OFF-AR-10002094,Office Supplies,Art,"Boston Pencil Sharpener, Water Color",58.44,2,Cyra Reiten,16.08,Sales Database
+ES-2017-2630841,2017-09-14 00:00:00,BD-11770,Consumer,Vienna,Vienna,Central,OFF-AR-10003633,Office Supplies,Art,"Binney & Smith Canvas, Easy-Erase",258.15,5,Bryan Davis,42.87,Sales Database
+ES-2017-2903666,2017-11-27 00:00:00,NF-18385,Consumer,Graz,Styria,Central,FUR-BO-10001133,Furniture,Bookcases,"Ikea Classic Bookcase, Mobile",2899.89,7,Natalie Fritzler,281.73,Sales Database
+ES-2017-3105987,2017-12-13 00:00:00,JE-16165,Corporate,Vienna,Vienna,Central,TEC-MA-10000473,Technology,Machines,"Konica Phone, Red",416.7,5,Justin Ellison,48.36,Sales Database
+,2017-12-13 00:00:00,JE-16165,Corporate,Vienna,Vienna,Central,OFF-AR-10000980,Office Supplies,Art,"Sanford Pencil Sharpener, Water Color",156.6,6,Justin Ellison,19.32,Sales Database
+ES-2017-3293691,2017-03-13 00:00:00,RB-19795,Home Office,Vienna,Vienna,Central,OFF-ST-10004702,Office Supplies,Storage,"Eldon Box, Single Width",72.03,7,Ross Baird,7.32,Sales Database
+,2017-03-13 00:00:00,RB-19795,Home Office,Vienna,Vienna,Central,OFF-AP-10002577,Office Supplies,Appliances,"Hamilton Beach Coffee Grinder, Black",126.27,3,Ross Baird,41.25,Sales Database
+ES-2017-3706388,2017-01-15 00:00:00,TG-21640,Consumer,Vienna,Vienna,Central,OFF-AP-10003909,Office Supplies,Appliances,"KitchenAid Blender, Black",387.96,4,Trudy Glocke,60.15,Sales Database
+,2017-01-15 00:00:00,TG-21640,Consumer,Vienna,Vienna,Central,TEC-AC-10004811,Technology,Accessories,"Memorex Flash Drive, USB",88.83,3,Trudy Glocke,26.97,Sales Database
+ES-2017-3706388,2017-01-15 00:00:00,TG-21640,Consumer,Vienna,Vienna,Central,OFF-BI-10001544,Office Supplies,Binders,"Wilson Jones Hole Reinforcements, Clear",3.99,1,Trudy Glocke,3.57,Sales Database
+ES-2017-3711061,2017-02-06 00:00:00,SC-20680,Home Office,Linz,Upper Austria,Central,OFF-BI-10003650,Office Supplies,Binders,"Ibico Index Tab, Clear",44.55,5,Steve Carroll,5.28,Sales Database
+ES-2017-3867083,2017-04-08 00:00:00,RH-19600,Consumer,Vienna,Vienna,Central,FUR-FU-10003069,Furniture,Furnishings,"Deflect-O Photo Frame, Durable",146.79,3,Rob Haberlin,42.09,Sales Database
+ES-2017-4184078,2017-07-03 00:00:00,RS-19765,Corporate,Vienna,Vienna,Central,OFF-AP-10000802,Office Supplies,Appliances,"Hoover Microwave, White",2147.46,7,Roland Schwarz,223.95,Sales Database
+ES-2017-4465613,2017-09-21 00:00:00,GA-14515,Consumer,Vienna,Vienna,Central,OFF-PA-10004111,Office Supplies,Paper,"Enermax Parchment Paper, Multicolor",67.2,4,George Ashbrook,11.76,Sales Database
+,2017-09-21 00:00:00,GA-14515,Consumer,Vienna,Vienna,Central,TEC-PH-10000070,Technology,Phones,"Nokia Headset, with Caller ID",365.55,5,George Ashbrook,64.35,Sales Database
+ES-2017-4555618,2017-07-11 00:00:00,SH-20635,Corporate,Vienna,Vienna,Central,OFF-ST-10004855,Office Supplies,Storage,"Smead Lockers, Industrial",596.7,3,Stefanie Holloman,143.22,Sales Database
+ES-2017-4736780,2017-01-31 00:00:00,AA-10645,Consumer,Vienna,Vienna,Central,OFF-BI-10001808,Office Supplies,Binders,"Cardinal Binding Machine, Clear",196.92,4,Anna Andreadi,29.55,Sales Database
+,2017-01-31 00:00:00,AA-10645,Consumer,Vienna,Vienna,Central,OFF-SU-10002131,Office Supplies,Supplies,"Elite Scissors, Serrated",76.92,4,Anna Andreadi,18.09,Sales Database
+ES-2017-4790317,2017-03-08 00:00:00,PO-19180,Home Office,Vienna,Vienna,Central,OFF-LA-10000379,Office Supplies,Labels,"Harbour Creations Legal Exhibit Labels, 5000 Label Set",22.68,2,Philisse Overcash,9.54,Sales Database
+ES-2017-4975514,2017-01-19 00:00:00,TS-21370,Corporate,Vienna,Vienna,Central,FUR-FU-10000225,Furniture,Furnishings,"Rubbermaid Photo Frame, Durable",146.34,3,Todd Sumrall,46.35,Sales Database
+ES-2017-4992865,2017-05-30 00:00:00,AT-10435,Home Office,Vienna,Vienna,Central,TEC-CO-10004365,Technology,Copiers,"HP Wireless Fax, Color",1084.95,3,Alyssa Tate,358.05,Sales Database
+ES-2017-5239444,2017-11-28 00:00:00,DK-13090,Consumer,Vienna,Vienna,Central,TEC-CO-10003807,Technology,Copiers,"HP Personal Copier, Laser",497.16,4,Dave Kipp,82.05,Sales Database
+ES-2017-5344669,2017-02-14 00:00:00,SS-20875,Consumer,Vienna,Vienna,Central,OFF-BI-10004195,Office Supplies,Binders,"Wilson Jones Binding Machine, Clear",338.94,7,Sung Shariari,33.9,Sales Database
+ES-2017-5377319,2017-12-04 00:00:00,MC-18100,Consumer,Vienna,Vienna,Central,OFF-AR-10004151,Office Supplies,Art,"BIC Sketch Pad, Blue",291.96,6,Mick Crebagga,39.93,Sales Database
+,2017-12-04 00:00:00,MC-18100,Consumer,Vienna,Vienna,Central,OFF-AR-10002805,Office Supplies,Art,"Boston Sketch Pad, Blue",97.2,2,Mick Crebagga,27.72,Sales Database
+ES-2017-5377319,2017-12-04 00:00:00,MC-18100,Consumer,Vienna,Vienna,Central,FUR-CH-10001278,Furniture,Chairs,"SAFCO Chairmat, Black",114.78,2,Mick Crebagga,54.54,Sales Database
+,2017-12-04 00:00:00,MC-18100,Consumer,Vienna,Vienna,Central,OFF-AR-10000176,Office Supplies,Art,"Sanford Highlighters, Water Color",37.86,2,Mick Crebagga,12.12,Sales Database
+ES-2017-5377319,2017-12-04 00:00:00,MC-18100,Consumer,Vienna,Vienna,Central,OFF-FA-10001359,Office Supplies,Fasteners,"Stockwell Rubber Bands, Assorted Sizes",40.77,3,Mick Crebagga,11.34,Sales Database
+ES-2017-5443807,2017-10-04 00:00:00,JR-16210,Corporate,Linz,Upper Austria,Central,FUR-BO-10004327,Furniture,Bookcases,"Bush 3-Shelf Cabinet, Mobile",437.67,3,Justin Ritter,124.02,Sales Database
+ES-2017-5523206,2017-06-05 00:00:00,TH-21115,Corporate,Vienna,Vienna,Central,OFF-AP-10000228,Office Supplies,Appliances,"Cuisinart Blender, White",260.52,4,Thea Hudgings,40.41,Sales Database
+,2017-06-05 00:00:00,TH-21115,Corporate,Vienna,Vienna,Central,TEC-MA-10003923,Technology,Machines,"Okidata Receipt Printer, Durable",615.15,5,Thea Hudgings,118.11,Sales Database
+ES-2017-5648133,2017-05-06 00:00:00,DB-13360,Home Office,Vienna,Vienna,Central,TEC-AC-10004880,Technology,Accessories,"Logitech Keyboard, Programmable",147.9,2,Dennis Bolton,66.57,Sales Database
+ES-2017-5905999,2017-04-02 00:00:00,BE-11455,Home Office,Salzburg,Salzburg,Central,OFF-AR-10004492,Office Supplies,Art,"BIC Canvas, Blue",107.4,2,Brad Eason,49.41,Sales Database
+ES-2018-1325616,2018-03-04 00:00:00,LA-16780,Corporate,Innsbruck,Tyrol,Central,TEC-CO-10002284,Technology,Copiers,"Hewlett Copy Machine, Color",1060.44,4,Laura Armstrong,130.95,Sales Database
+,2018-03-04 00:00:00,LA-16780,Corporate,Innsbruck,Tyrol,Central,TEC-PH-10001163,Technology,Phones,"Motorola Speaker Phone, Cordless",265.26,2,Laura Armstrong,126,Sales Database
+ES-2018-1364039,2018-03-19 00:00:00,JM-15655,Corporate,Graz,Styria,Central,FUR-FU-10000267,Furniture,Furnishings,"Advantus Clock, Durable",242.1,5,Jim Mitchum,45.54,Sales Database
+ES-2018-1627638,2018-12-04 00:00:00,NG-18430,Consumer,Vienna,Vienna,Central,OFF-PA-10001722,Office Supplies,Paper,"SanDisk Message Books, Premium",23.82,1,Nathan Gelder,17.64,Sales Database
+ES-2018-1681793,2018-04-03 00:00:00,ER-13855,Corporate,Graz,Styria,Central,OFF-ST-10003641,Office Supplies,Storage,"Fellowes Trays, Wire Frame",112.92,2,Elpida Rittenbach,42.36,Sales Database
+ES-2018-1848240,2018-02-11 00:00:00,MG-18205,Corporate,Vienna,Vienna,Central,OFF-ST-10004695,Office Supplies,Storage,"Fellowes File Cart, Blue",411.93,3,Mitch Gastineau,82.41,Sales Database
+,2018-02-11 00:00:00,MG-18205,Corporate,Vienna,Vienna,Central,TEC-MA-10003079,Technology,Machines,"Panasonic Card Printer, Wireless",173.82,1,Mitch Gastineau,149.49,Sales Database
+ES-2018-1856774,2018-09-02 00:00:00,RF-19345,Corporate,Linz,Upper Austria,Central,OFF-AR-10004739,Office Supplies,Art,"BIC Canvas, Easy-Erase",107.94,2,Randy Ferguson,35.64,Sales Database
+,2018-09-02 00:00:00,RF-19345,Corporate,Linz,Upper Austria,Central,OFF-BI-10002935,Office Supplies,Binders,"Wilson Jones Binder, Clear",37.44,3,Randy Ferguson,11.49,Sales Database
+ES-2018-1903302,2018-04-28 00:00:00,DG-13300,Corporate,Vienna,Vienna,Central,OFF-BI-10001138,Office Supplies,Binders,"Acco 3-Hole Punch, Clear",88.74,3,Deirdre Greer,24.57,Sales Database
+,2018-08-13 00:00:00,DG-13300,Corporate,Vienna,Vienna,Central,TEC-AC-10003265,Technology,Accessories,"Belkin Router, Bluetooth",517.5,2,Deirdre Greer,248.4,Sales Database
+ES-2018-2484644,2018-09-18 00:00:00,AR-10345,Corporate,Vienna,Vienna,Central,OFF-LA-10001402,Office Supplies,Labels,"Smead Color Coded Labels, 5000 Label Set",26.88,2,Alex Russell,11.16,Sales Database
+ES-2018-2494639,2018-06-18 00:00:00,LB-16735,Consumer,Vienna,Vienna,Central,OFF-AR-10003012,Office Supplies,Art,"Sanford Markers, Easy-Erase",70.56,3,Larry Blacks,23.07,Sales Database
+ES-2018-2538638,2018-10-15 00:00:00,CS-11860,Consumer,Vienna,Vienna,Central,OFF-BI-10004227,Office Supplies,Binders,"Avery Binding Machine, Economy",97.68,2,Cari Schnelling,42.99,Sales Database
+,2018-10-15 00:00:00,CS-11860,Consumer,Vienna,Vienna,Central,TEC-CO-10001375,Technology,Copiers,"Brother Copy Machine, Color",1318.65,5,Cari Schnelling,150.33,Sales Database
+ES-2018-2538638,2018-10-15 00:00:00,CS-11860,Consumer,Vienna,Vienna,Central,OFF-ST-10000624,Office Supplies,Storage,"Eldon File Cart, Single Width",1026.96,8,Cari Schnelling,104.91,Sales Database
+,2018-10-15 00:00:00,CS-11860,Consumer,Vienna,Vienna,Central,OFF-BI-10003951,Office Supplies,Binders,"Ibico 3-Hole Punch, Economy",60.9,2,Cari Schnelling,15.24,Sales Database
+ES-2018-2591706,2018-09-22 00:00:00,SJ-20215,Consumer,Vienna,Vienna,Central,OFF-AR-10004825,Office Supplies,Art,"BIC Canvas, Fluorescent",439.68,8,Sarah Jordon,35.73,Sales Database
+,2018-09-22 00:00:00,SJ-20215,Consumer,Vienna,Vienna,Central,OFF-EN-10004904,Office Supplies,Envelopes,"Cameo Manila Envelope, Set of 50",54,2,Sarah Jordon,24.57,Sales Database
+ES-2018-2739856,2018-02-26 00:00:00,PT-19090,Consumer,Salzburg,Salzburg,Central,OFF-ST-10001222,Office Supplies,Storage,"Eldon Shelving, Single Width",145.35,3,Pete Takahito,48.45,Sales Database
+ES-2018-2982781,2018-10-18 00:00:00,CM-11935,Consumer,Vienna,Vienna,Central,TEC-MA-10003261,Technology,Machines,"Panasonic Phone, Durable",509.76,6,Carlos Meador,45.9,Sales Database
+ES-2018-3190273,2018-04-26 00:00:00,BF-11215,Home Office,Vienna,Vienna,Central,OFF-AR-10000091,Office Supplies,Art,"BIC Highlighters, Water Color",44.22,2,Benjamin Farhat,18.15,Sales Database
+ES-2018-3327928,2018-06-11 00:00:00,MV-17485,Consumer,Vienna,Vienna,Central,OFF-AP-10003615,Office Supplies,Appliances,"Hamilton Beach Blender, Black",352.35,5,Mark Van Huff,66.96,Sales Database
+,2018-06-11 00:00:00,MV-17485,Consumer,Vienna,Vienna,Central,OFF-ST-10001460,Office Supplies,Storage,"Smead Trays, Industrial",146.88,3,Mark Van Huff,32.82,Sales Database
+ES-2018-3436418,2018-06-24 00:00:00,CR-12820,Home Office,Vienna,Vienna,Central,OFF-LA-10002225,Office Supplies,Labels,"Hon Shipping Labels, 5000 Label Set",82.32,7,Cyra Reiten,6.12,Sales Database
+,2018-06-24 00:00:00,CR-12820,Home Office,Vienna,Vienna,Central,TEC-MA-10004896,Technology,Machines,"StarTech Phone, White",218.79,3,Cyra Reiten,43.05,Sales Database
+ES-2018-3563838,2018-04-19 00:00:00,MB-17305,Consumer,Vienna,Vienna,Central,OFF-SU-10001657,Office Supplies,Supplies,"Acme Box Cutter, High Speed",113.4,3,Maria Bertelson,19.68,Sales Database
+,2018-04-19 00:00:00,MB-17305,Consumer,Vienna,Vienna,Central,FUR-CH-10000603,Furniture,Chairs,"Hon Bag Chairs, Red",316.05,7,Maria Bertelson,30.27,Sales Database
+ES-2018-3563838,2018-04-19 00:00:00,MB-17305,Consumer,Vienna,Vienna,Central,TEC-AC-10003904,Technology,Accessories,"SanDisk Keyboard, USB",81.69,1,Maria Bertelson,75.18,Sales Database
+ES-2018-3571679,2018-01-26 00:00:00,MD-17350,Consumer,Salzburg,Salzburg,Central,OFF-ST-10003764,Office Supplies,Storage,"Tenex Box, Industrial",118.86,7,Maribeth Dona,9,Sales Database
+ES-2018-3719722,2018-09-23 00:00:00,LE-16810,Consumer,Vienna,Vienna,Central,FUR-CH-10000603,Furniture,Chairs,"Hon Bag Chairs, Red",90.3,2,Laurel Elliston,30.27,Sales Database
+,2018-09-23 00:00:00,LE-16810,Consumer,Vienna,Vienna,Central,OFF-BI-10000267,Office Supplies,Binders,"Ibico Hole Reinforcements, Clear",12.9,2,Laurel Elliston,3.96,Sales Database
+ES-2018-3812608,2018-06-25 00:00:00,BD-11725,Consumer,Vienna,Vienna,Central,OFF-BI-10000329,Office Supplies,Binders,"Acco Binder, Durable",66.6,4,Bruce Degenhardt,12,Sales Database
+ES-2018-3977309,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,TEC-CO-10001375,Technology,Copiers,"Brother Copy Machine, Color",1846.11,7,Delfina Latchford,150.33,Sales Database
+,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-SU-10002131,Office Supplies,Supplies,"Elite Scissors, Serrated",19.23,1,Delfina Latchford,18.09,Sales Database
+ES-2018-3977309,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-EN-10003785,Office Supplies,Envelopes,"GlobeWeis Mailers, Set of 50",154.2,4,Delfina Latchford,38.19,Sales Database
+,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-EN-10000271,Office Supplies,Envelopes,"Kraft Peel and Seal, with clear poly window",144.18,6,Delfina Latchford,17.55,Sales Database
+ES-2018-3977309,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,FUR-CH-10004774,Furniture,Chairs,"Novimex Executive Leather Armchair, Red",3221.4,7,Delfina Latchford,299.13,Sales Database
+,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-FA-10002066,Office Supplies,Fasteners,"OIC Clamps, Bulk Pack",79.08,4,Delfina Latchford,9.9,Sales Database
+ES-2018-3977309,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-ST-10001758,Office Supplies,Storage,"Rogers Lockers, Blue",1269.72,6,Delfina Latchford,196.83,Sales Database
+,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-PA-10000850,Office Supplies,Paper,"SanDisk Parchment Paper, Multicolor",36.24,2,Delfina Latchford,14.52,Sales Database
+ES-2018-3977309,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-ST-10003018,Office Supplies,Storage,"Smead File Cart, Industrial",385.2,3,Delfina Latchford,92.46,Sales Database
+,2018-11-12 00:00:00,DL-13315,Consumer,Villach,Carinthia,Central,OFF-AR-10002037,Office Supplies,Art,"Stanley Sketch Pad, Fluorescent",228.45,5,Delfina Latchford,38.4,Sales Database
+ES-2018-4043339,2018-08-28 00:00:00,AG-10765,Home Office,Vienna,Vienna,Central,OFF-SU-10003907,Office Supplies,Supplies,"Stiletto Letter Opener, Easy Grip",150,5,Anthony Garverick,15.06,Sales Database
+ES-2018-4138832,2018-09-03 00:00:00,BF-10975,Corporate,Vienna,Vienna,Central,TEC-PH-10004105,Technology,Phones,"Motorola Speaker Phone, VoIP",779.22,6,Barbara Fisher,124.68,Sales Database
+,2018-07-03 00:00:00,AH-10690,Corporate,Vienna,Vienna,Central,FUR-CH-10002819,Furniture,Chairs,"SAFCO Chairmat, Red",119.64,2,Anna Häberlin,47.28,Sales Database
+ES-2018-4347130,2018-08-11 00:00:00,CM-12715,Corporate,Vienna,Vienna,Central,OFF-AR-10004151,Office Supplies,Art,"BIC Sketch Pad, Blue",97.32,2,Craig Molinari,39.93,Sales Database
+,2018-08-11 00:00:00,CM-12715,Corporate,Vienna,Vienna,Central,OFF-AR-10001777,Office Supplies,Art,"Binney & Smith Sketch Pad, Water Color",49.5,1,Craig Molinari,33.18,Sales Database
+ES-2018-4385660,2018-09-20 00:00:00,EB-14110,Consumer,Vienna,Vienna,Central,OFF-SU-10003556,Office Supplies,Supplies,"Fiskars Trimmer, Easy Grip",131.76,3,Eugene Barchas,27.69,Sales Database
+,2018-09-20 00:00:00,EB-14110,Consumer,Vienna,Vienna,Central,OFF-EN-10003817,Office Supplies,Envelopes,"Jiffy Business Envelopes, Security-Tint",31.92,2,Eugene Barchas,15.03,Sales Database
+ES-2018-4385660,2018-09-20 00:00:00,EB-14110,Consumer,Vienna,Vienna,Central,FUR-CH-10004792,Furniture,Chairs,"SAFCO Swivel Stool, Set of Two",680.76,4,Eugene Barchas,105.54,Sales Database
+ES-2018-4407511,2018-09-15 00:00:00,MC-17275,Consumer,Vienna,Vienna,Central,OFF-SU-10001021,Office Supplies,Supplies,"Fiskars Box Cutter, Serrated",64.44,2,Marc Crier,21.93,Sales Database
+,2018-01-29 00:00:00,MF-18250,Corporate,Vienna,Vienna,Central,OFF-ST-10003305,Office Supplies,Storage,"Rogers Box, Blue",215.73,9,Monica Federle,23.52,Sales Database
+ES-2018-4418227,2018-10-07 00:00:00,SE-20110,Consumer,Vienna,Vienna,Central,FUR-FU-10004422,Furniture,Furnishings,"Advantus Photo Frame, Erganomic",103.2,2,Sanjit Engle,26.85,Sales Database
+,2018-10-07 00:00:00,SE-20110,Consumer,Vienna,Vienna,Central,TEC-PH-10002715,Technology,Phones,"Cisco Audio Dock, VoIP",910.8,5,Sanjit Engle,111.12,Sales Database
+ES-2018-4418227,2018-10-07 00:00:00,SE-20110,Consumer,Vienna,Vienna,Central,FUR-FU-10004954,Furniture,Furnishings,"Tenex Clock, Duo Pack",100.62,2,Sanjit Engle,31.2,Sales Database
+ES-2018-4634502,2018-06-21 00:00:00,TB-21175,Corporate,Vienna,Vienna,Central,OFF-EN-10004212,Office Supplies,Envelopes,"Kraft Manila Envelope, Recycled",75.87,3,Thomas Boland,20.76,Sales Database
+,2018-06-21 00:00:00,TB-21175,Corporate,Vienna,Vienna,Central,OFF-FA-10000520,Office Supplies,Fasteners,"Stockwell Paper Clips, Bulk Pack",68.1,5,Thomas Boland,7.11,Sales Database
+ES-2018-4697376,2018-06-16 00:00:00,DK-13225,Corporate,Salzburg,Salzburg,Central,OFF-LA-10001546,Office Supplies,Labels,"Avery Shipping Labels, Adjustable",29.25,3,Dean Katz,6.54,Sales Database
+ES-2018-4790238,2018-12-19 00:00:00,SC-20725,Consumer,Villach,Carinthia,Central,OFF-SU-10003509,Office Supplies,Supplies,"Stiletto Ruler, Easy Grip",82.5,5,Steven Cartwright,9.75,Sales Database
+ES-2018-4822413,2018-01-29 00:00:00,JW-15220,Corporate,Wels,Upper Austria,Central,FUR-FU-10001366,Furniture,Furnishings,"Advantus Photo Frame, Duo Pack",212.16,4,Jane Waco,32.91,Sales Database
+ES-2018-5022243,2018-07-01 00:00:00,CD-12280,Consumer,Wels,Upper Austria,Central,OFF-EN-10000890,Office Supplies,Envelopes,"Ames Peel and Seal, Recycled",122.43,7,Christina DeMoss,11.37,Sales Database
+,2018-07-01 00:00:00,CD-12280,Consumer,Wels,Upper Austria,Central,OFF-AR-10000703,Office Supplies,Art,"BIC Pens, Water Color",17.46,1,Christina DeMoss,10.32,Sales Database
+ES-2018-5022243,2018-07-01 00:00:00,CD-12280,Consumer,Wels,Upper Austria,Central,OFF-AR-10000124,Office Supplies,Art,"Binney & Smith Highlighters, Fluorescent",53.55,3,Christina DeMoss,16.44,Sales Database
+,2018-07-01 00:00:00,CD-12280,Consumer,Wels,Upper Austria,Central,TEC-AC-10004811,Technology,Accessories,"Memorex Flash Drive, USB",59.22,2,Christina DeMoss,26.97,Sales Database
+ES-2018-5022243,2018-07-01 00:00:00,CD-12280,Consumer,Wels,Upper Austria,Central,OFF-ST-10000710,Office Supplies,Storage,"Smead Shelving, Blue",293.58,6,Christina DeMoss,34.26,Sales Database
+ES-2018-5117456,2018-07-26 00:00:00,GH-14410,Home Office,Vienna,Vienna,Central,OFF-FA-10001097,Office Supplies,Fasteners,"Accos Paper Clips, Assorted Sizes",45.96,4,Gary Hansen,11.4,Sales Database
+,2018-07-26 00:00:00,GH-14410,Home Office,Vienna,Vienna,Central,FUR-FU-10001424,Furniture,Furnishings,"Eldon Photo Frame, Durable",165.42,3,Gary Hansen,39.72,Sales Database
+ES-2018-5234785,2018-11-20 00:00:00,JM-15250,Consumer,Vienna,Vienna,Central,OFF-BI-10001754,Office Supplies,Binders,"Ibico Binder Covers, Recycled",28.02,2,Janet Martin,8.85,Sales Database
+ES-2018-5295631,2018-07-18 00:00:00,AH-10030,Corporate,Vienna,Vienna,Central,FUR-BO-10001165,Furniture,Bookcases,"Bush Library with Doors, Mobile",1100.52,3,Aaron Hawkins,249.48,Sales Database
+ES-2018-5372716,2018-05-27 00:00:00,KD-16495,Corporate,Vienna,Vienna,Central,OFF-PA-10004856,Office Supplies,Paper,"Xerox Memo Slips, Recycled",53.76,4,Keith Dawkins,11.43,Sales Database
+ES-2018-5444640,2018-10-01 00:00:00,FG-14260,Home Office,Vienna,Vienna,Central,TEC-CO-10004567,Technology,Copiers,"Brother Fax Machine, Color",319.98,1,Frank Gastineau,176.01,Sales Database
+ES-2018-5630136,2018-07-07 00:00:00,HZ-14950,Consumer,Vienna,Vienna,Central,OFF-BI-10004628,Office Supplies,Binders,"Cardinal Binder, Durable",61.32,4,Henia Zydlo,14.58,Sales Database
+,2018-07-07 00:00:00,HZ-14950,Consumer,Vienna,Vienna,Central,OFF-ST-10003335,Office Supplies,Storage,"Smead Box, Blue",21.54,2,Henia Zydlo,10.77,Sales Database
+ES-2018-5630136,2018-07-07 00:00:00,HZ-14950,Consumer,Vienna,Vienna,Central,OFF-PA-10001212,Office Supplies,Paper,"Xerox Message Books, Recycled",121.68,6,Henia Zydlo,14.01,Sales Database
+ES-2018-5779828,2018-05-24 00:00:00,AF-10885,Consumer,Innsbruck,Tyrol,Central,TEC-CO-10003124,Technology,Copiers,"Canon Ink, Laser",735.75,5,Art Foster,78,Sales Database
+,2018-05-24 00:00:00,AF-10885,Consumer,Innsbruck,Tyrol,Central,OFF-BI-10001984,Office Supplies,Binders,"Ibico Binding Machine, Economy",205.68,4,Art Foster,46.8,Sales Database
+ES-2018-5784467,2018-12-26 00:00:00,CS-12490,Corporate,Linz,Upper Austria,Central,OFF-BI-10002083,Office Supplies,Binders,"Acco Hole Reinforcements, Economy",6.66,1,Cindy Schnelling,6.09,Sales Database
+ES-2018-5795334,2018-07-16 00:00:00,SA-20830,Consumer,Vienna,Vienna,Central,TEC-AC-10002738,Technology,Accessories,"Belkin Memory Card, Programmable",465.24,4,Sue Ann Reed,81.42,Sales Database
+,2018-07-16 00:00:00,SA-20830,Consumer,Vienna,Vienna,Central,FUR-FU-10003325,Furniture,Furnishings,"Tenex Door Stop, Duo Pack",87.9,2,Sue Ann Reed,24.18,Sales Database
+ES-2018-5795334,2018-07-16 00:00:00,SA-20830,Consumer,Vienna,Vienna,Central,OFF-BI-10001119,Office Supplies,Binders,"Wilson Jones Index Tab, Clear",17.73,3,Sue Ann Reed,5.4,Sales Database
+ES-2018-5838092,2018-11-07 00:00:00,ME-17320,Home Office,Vienna,Vienna,Central,OFF-ST-10004489,Office Supplies,Storage,"Smead Lockers, Single Width",396.9,2,Maria Etezadi,109.17,Sales Database
+ES-2018-5887865,2018-10-09 00:00:00,HF-14995,Consumer,Graz,Styria,Central,TEC-PH-10004152,Technology,Phones,"Apple Headset, VoIP",146.7,2,Herbert Flentye,63.09,Sales Database
+ES-2018-5989518,2018-08-14 00:00:00,AH-10120,Home Office,Vienna,Vienna,Central,OFF-ST-10000624,Office Supplies,Storage,"Eldon File Cart, Single Width",256.74,2,Adrian Hane,104.91,Sales Database
+,2018-08-14 00:00:00,AH-10120,Home Office,Vienna,Vienna,Central,OFF-PA-10004694,Office Supplies,Paper,"Green Bar Cards & Envelopes, 8.5 x 11",52.53,1,Adrian Hane,43.08,Sales Database
